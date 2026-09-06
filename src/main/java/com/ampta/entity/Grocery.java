@@ -16,5 +16,6 @@ public class Grocery {
 
     private String groceryName;
     private Integer groceryQuantity;
+    private String grocerysize;
 
 }
